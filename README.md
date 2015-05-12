@@ -37,7 +37,7 @@ Also, you can add a field `metakeywords` for a meta tag with keywords.
 Configuration
 -------------
 
-Use `config.yaml` to configure `<meta>` elements that are added on every page.
+Use `config.yml` to configure `<meta>` elements that are added on every page.
 Add items under the `meta` item using the following template:
 
     meta-tag-name:
